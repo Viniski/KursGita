@@ -1,3 +1,3 @@
 # KursGita
 
-Zmiana kontrolna
+Zmiana kontrolna nr. 2
